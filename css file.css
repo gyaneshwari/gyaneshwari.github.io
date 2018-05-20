@@ -1,0 +1,37 @@
+ body{
+      background-image :url(bac.jpg);
+      background-repeat:no-repeat;
+      background-size:cover;	  
+	  }
+h1{
+  
+   color:white;
+   font-size:60px;
+   font-family:arial;
+   padding-left:400px;
+  }   
+ ul{
+   border:7px double white;
+   font-family:Comic Sans MS Header;
+   font-weight:bold;
+   font-size:45px;
+   color:white;
+   width:1000px;
+   padding-top:30px;
+   padding-left:1000;
+   
+   }
+menu {
+      font-size:40px;
+      text-align :center;
+      color:white;
+      font-weight :bold;
+      font-family :arial;
+	  word-spacing :130px;
+      }	
+a:link{
+       color:white;
+      }
+a:visited{
+          color:white;
+		  }
